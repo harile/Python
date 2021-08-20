@@ -12,6 +12,7 @@ def update():
          t =  ToastNotifier()
          t.show_toast("Covid19 Update", text, duration = 20)
          time.sleep(60)
+        #  Them ghi chu
 
 update()
 
